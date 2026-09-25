@@ -1,1 +1,3 @@
-# Intro-to-GitHub sheeshhhhhhh kobeeeeeee
+# Intro-to-GitHub This repository is for my Introduction to GitHub assignment."
+
+
